@@ -55,10 +55,12 @@ This is the preliminary set of topics.
 |Week 13-1| Graph Neural Networks to integrate spatial information with genomic data|
 |Week 13-2| Imagining Proteomics and Genomics and Spatial Regularization|
 |Week 14-1| Computational Neuroscience and Time-Varying Analysis of Brain Connectivity| 
-|Week 15-1| Technical writing in comp bio, opportunities for graph learning in biology, summary of topics covered|
-|Week 15-2| Project Presentations Day 1
-|Week 16-1| Project Presentations Day 2
-|Week 16-2| Project Presentations Day 3
+|Week 15-1| Sketching single-cell datasets day 1
+|Week 15-2| Sketching single-cell datasets day 2
+|Week 16-1| Technical writing in comp bio, opportunities for graph learning in biology, summary of topics covered|
+|Week 16-2| Project Presentations Day 1
+|Week 17-1| Project Presentations Day 2
+|Week 17-2| Project Presentations Day 3
 |Final Exam Day| Final Project Writeups Due
 
 # Homework, Project, Reading, Grading, Etc
