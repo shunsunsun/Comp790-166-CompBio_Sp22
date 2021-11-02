@@ -22,7 +22,7 @@ Students will also pick any two days during the semester to answer a set of read
 
 # Topics and Tentative Schedule. 
 
-This is the preliminary set of topics (spring break is somewhere in here..). 
+This is the preliminary set of topics. 
 
 
 | Date | Topic | Reading | Notes | Code |
