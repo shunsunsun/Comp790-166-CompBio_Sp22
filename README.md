@@ -26,3 +26,4 @@ This is the preliminary set of topics.
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
 | Week 1-1 | Intro, Bioinformatics vs Computational Biology|
+|Week 1-2| Linear Algebra Review, Matrix Rank, Building Graphs from Data Graph Laplacian | 
