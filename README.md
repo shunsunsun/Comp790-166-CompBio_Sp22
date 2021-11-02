@@ -1,11 +1,14 @@
 # Comp790-166: Computational Biology (Spring 2022) 
 
 ## Details
+
 Instructor: Natalie Stanley
 
 Email: natalies@cs.unc.edu
 
 Time and Place: Monday/Wednesday 9:30am-10:45am in SN0115
+
+Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. 
 
 Office Hours: Monday 10:45-noon or by appointment 
 
