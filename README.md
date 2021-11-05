@@ -8,7 +8,7 @@ Email: natalies@cs.unc.edu
 
 Time and Place: Monday/Wednesday 9:30am-10:45am in SN0115
 
-Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. 
+Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures) and includes two homework assignments and a course project. 
 
 Office Hours: Monday 10:45-noon or by appointment 
 
